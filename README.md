@@ -9,6 +9,17 @@ can read about the toolbox [here](http://www.petercorke.com/Robotics_Toolbox.htm
 
 ## NOTE:
 It's not a professional simulation, only a academic implementation about forward kinematics 
+--------------
+
+## How to run it?
+Please follow the instructions to run the simulator correctly
+
+### Step 1.
+You have to download and install MATLAB  and the Perter Corke's robotic toolbox.
+Here is the [Toolbox information](http://www.petercorke.com/Robotics_Toolbox.html).
+
+### Step 2.
+Run the file `robotConsoleSimulation.m` and follow the instrutions that simulator will be show you.
 
 --------------
 
