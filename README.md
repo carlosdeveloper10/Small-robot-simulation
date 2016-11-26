@@ -9,8 +9,8 @@ can read about the toolbox [here](http://www.petercorke.com/Robotics_Toolbox.htm
 
 ## NOTE:
 It's not a professional simulation, only a academic implementation about forward kinematics 
---------------
 
+--------------
 ## How to run it?
 Please follow the instructions to run the simulator correctly
 
